@@ -373,3 +373,7 @@ Please read the following statements by people who were targeted:
 And consider signing the letter:
 
 * [Instructions for signing](https://github.com/scala-open-letter/scala-open-letter.github.io)
+
+### Additional additional information
+
+* [A Statement from Jon Pretty](https://twitter.com/propensive/status/1783818158458954213)
